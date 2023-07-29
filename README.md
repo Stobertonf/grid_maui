@@ -34,4 +34,15 @@
 
 ## Imagens
 
-Neste momento eu não possuo imagens para disponibilizar.
+Neste momento estou disponibilizando as imagens de algumas maneiras diferentes de utilizar o Grid.
+
+<p float="left" align="center">
+ <img src= https://i.ibb.co/pKJ6VsQ/Grid-Maui.png width="40%" />
+ <img src= https://i.ibb.co/wwz3yXV/Grid-Maui-1.png  width="40%" />
+ <img src= https://i.ibb.co/1Q7dJmR/Grid-Maui-2.png  width="40%" />
+ <img src= https://i.ibb.co/PDypVNB/Grid-Maui-3.png  width="40%" />
+ <img src= https://i.ibb.co/YPkdCQK/Grid-Maui-4.png  width="40%" />
+ <img src= https://i.ibb.co/j5vw9yv/Grid-Maui-5.png  width="40%" />
+ <img src= https://i.ibb.co/dcHvyFC/Grid-Maui-6.png  width="40%" />
+ 
+</p>
