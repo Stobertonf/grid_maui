@@ -36,7 +36,7 @@
 
 Neste momento estou disponibilizando as imagens de algumas maneiras diferentes de utilizar o Grid.
 
- <img [src= https://i.ibb.co/TT1PHYC/Maui.jpg](https://i.ibb.co/pKJ6VsQ/Grid-Maui.png) />
+ <img src= https://i.ibb.co/pKJ6VsQ/Grid-Maui.png />
  <img src= https://i.ibb.co/wwz3yXV/Grid-Maui-1.png />
  <img src= https://i.ibb.co/1Q7dJmR/Grid-Maui-2.png />
  <img src= https://i.ibb.co/PDypVNB/Grid-Maui-3.png />
