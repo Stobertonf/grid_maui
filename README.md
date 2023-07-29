@@ -46,5 +46,4 @@ Neste momento estou disponibilizando as imagens de algumas maneiras diferentes d
  <img src= https://i.ibb.co/dcHvyFC/Grid-Maui-6.png  width="40%" />
  
 </p>
-                                                                       
-Em breve novas imagens vão ser disponibilizadas.
+
