@@ -30,7 +30,7 @@
 
 ## Prazo
 
-⚡ Este projeto foi iniciado no dia 16/07/2023, porém, ainda está sendo desenvolvido. No entanto, em breve espero trazer muitas novidades para este repositório !!!
+⚡ Este projeto foi finalizado no dia 29/07/2023!!! Agora irei dar sequência ao curso.
 
 ## Imagens
 
@@ -46,3 +46,4 @@ Neste momento estou disponibilizando as imagens de algumas maneiras diferentes d
  <img src= https://i.ibb.co/dcHvyFC/Grid-Maui-6.png  width="40%" />
  
 </p>
+
